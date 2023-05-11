@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dropshipping Business</title>
+  <style>
+    /* CSS styles for the landing page */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #333333;
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    p {
+      color: #666666;
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #ff9900;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #ff6600;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Our Dropshipping Business!</h1>
+    <p>Discover amazing products and start your own online store today.</p>
+    <a href="#" class="cta-button">Get Started</a>
+  </div>
+</body>
+</html>
